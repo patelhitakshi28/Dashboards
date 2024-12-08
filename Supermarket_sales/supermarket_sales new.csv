@@ -1,0 +1,1001 @@
+Gender,Invoice ID,Branch,City,Customer type,Product line,Unit price,Quantity,Tax 5%
+Female,750-67-8428,A,Yangon,Member,Health and beauty,74.69,7,26.1415
+Female,226-31-3081,C,Naypyitaw,Normal,Electronic accessories,15.28,5,3.82
+Female,355-53-5943,A,Yangon,Member,Electronic accessories,68.84,6,20.652
+Female,315-22-5665,C,Naypyitaw,Normal,Home and lifestyle,73.56,10,36.78
+Female,665-32-9167,A,Yangon,Member,Health and beauty,36.26,2,3.626
+Female,692-92-5582,B,Mandalay,Member,Food and beverages,54.84,3,8.226
+Female,351-62-0822,B,Mandalay,Member,Fashion accessories,14.48,4,2.896
+Female,365-64-0515,A,Yangon,Normal,Electronic accessories,46.95,5,11.7375
+Female,829-34-3910,A,Yangon,Normal,Health and beauty,71.38,10,35.69
+Female,299-46-1805,B,Mandalay,Member,Sports and travel,93.72,6,28.116
+Female,656-95-9349,A,Yangon,Member,Health and beauty,68.93,7,241.255
+Female,319-50-3348,B,Mandalay,Normal,Home and lifestyle,40.3,2,4.03
+Female,227-03-5010,A,Yangon,Member,Home and lifestyle,52.59,8,21.036
+Female,189-17-4241,A,Yangon,Normal,Fashion accessories,87.67,2,8.767
+Female,145-94-9061,B,Mandalay,Normal,Food and beverages,88.36,5,22.09
+Female,183-56-6882,C,Naypyitaw,Member,Food and beverages,99.42,4,19.884
+Female,232-16-2483,C,Naypyitaw,Member,Sports and travel,68.12,1,3.406
+Female,272-65-1806,A,Yangon,Normal,Electronic accessories,60.88,9,27.396
+Female,333-73-7901,C,Naypyitaw,Normal,Health and beauty,54.92,8,21.968
+Female,280-35-5823,B,Mandalay,Member,Home and lifestyle,86.72,1,4.336
+Female,354-25-5821,B,Mandalay,Member,Sports and travel,69.12,6,20.736
+Female,228-96-1411,C,Naypyitaw,Member,Food and beverages,98.7,8,39.48
+Female,132-32-9879,B,Mandalay,Member,Electronic accessories,93.96,4,18.792
+Female,727-46-3608,B,Mandalay,Member,Food and beverages,20.01,9,9.1945
+Female,574-22-5561,C,Naypyitaw,Member,Fashion accessories,82.63,10,41.315
+Female,162-48-8011,A,Yangon,Member,Food and beverages,44.59,5,11.1475
+Female,616-24-2851,B,Mandalay,Member,Fashion accessories,17.87,4,3.574
+Female,399-46-5918,C,Naypyitaw,Normal,Electronic accessories,85.98,8,34.392
+Female,817-48-8732,A,Yangon,Member,Home and lifestyle,72.35,10,36.175
+Female,285-68-5083,C,Naypyitaw,Member,Sports and travel,24.74,3,3.711
+Female,347-34-2234,B,Mandalay,Member,Sports and travel,55.07,9,247.815
+Female,838-78-4295,C,Naypyitaw,Normal,Health and beauty,33.47,2,3.347
+Female,109-28-2512,B,Mandalay,Member,Fashion accessories,97.61,6,29.283
+Female,382-03-4532,A,Yangon,Member,Health and beauty,18.33,1,9.165
+Female,510-95-6347,B,Mandalay,Member,Food and beverages,48.52,3,7.278
+Female,841-35-6630,C,Naypyitaw,Normal,Electronic accessories,75.91,6,22.773
+Female,732-94-0499,C,Naypyitaw,Normal,Electronic accessories,41.65,10,20.825
+Female,381-20-0914,A,Yangon,Member,Fashion accessories,20.01,9,9.1945
+Female,829-49-1914,C,Naypyitaw,Member,Food and beverages,78.31,10,39.155
+Female,756-01-7507,C,Naypyitaw,Normal,Health and beauty,20.38,5,5.095
+Female,870-72-4431,C,Naypyitaw,Normal,Health and beauty,99.19,6,29.757
+Female,847-38-7188,B,Mandalay,Normal,Food and beverages,96.68,3,14.502
+Female,787-56-0757,C,Naypyitaw,Member,Food and beverages,80.36,4,16.072
+Female,730-50-9884,C,Naypyitaw,Normal,Sports and travel,83.06,7,29.071
+Female,318-68-5053,B,Mandalay,Normal,Health and beauty,76.99,6,23.097
+Female,565-80-5980,C,Naypyitaw,Member,Home and lifestyle,47.38,4,9.476
+Female,225-32-0908,C,Naypyitaw,Normal,Sports and travel,44.86,10,22.43
+Female,873-51-0671,A,Yangon,Member,Sports and travel,21.98,7,7.693
+Female,871-39-9221,C,Naypyitaw,Normal,Electronic accessories,12.45,6,3.735
+Female,551-21-3069,C,Naypyitaw,Normal,Electronic accessories,23.07,9,10.3815
+Female,588-01-7461,C,Naypyitaw,Normal,Food and beverages,33.98,9,15.291
+Female,479-26-8945,B,Mandalay,Member,Sports and travel,16.49,2,1.649
+Female,210-67-5886,C,Naypyitaw,Member,Health and beauty,98.21,3,147.315
+Female,227-78-1148,B,Mandalay,Normal,Fashion accessories,72.84,7,25.494
+Female,237-01-6122,C,Naypyitaw,Member,Home and lifestyle,80.79,9,363.555
+Female,225-98-1496,C,Naypyitaw,Normal,Fashion accessories,27.02,3,4.053
+Female,642-32-2990,A,Yangon,Normal,Food and beverages,10.96,10,5.48
+Female,638-60-7125,A,Yangon,Normal,Electronic accessories,99.56,8,39.824
+Female,268-27-6179,B,Mandalay,Member,Fashion accessories,56.47,8,22.588
+Female,668-90-8900,A,Yangon,Normal,Home and lifestyle,93.69,7,327.915
+Female,870-54-3162,A,Yangon,Normal,Sports and travel,32.25,5,8.0625
+Female,189-08-9157,C,Naypyitaw,Normal,Fashion accessories,31.73,9,142.785
+Female,663-86-9076,C,Naypyitaw,Member,Food and beverages,68.54,8,27.416
+Female,549-84-7482,B,Mandalay,Normal,Sports and travel,90.28,9,40.626
+Female,191-10-6171,B,Mandalay,Normal,Fashion accessories,39.62,7,13.867
+Female,802-70-5316,A,Yangon,Member,Sports and travel,92.13,6,27.639
+Female,695-51-0018,B,Mandalay,Normal,Sports and travel,34.84,4,6.968
+Female,483-71-1164,C,Naypyitaw,Normal,Health and beauty,81.3,6,24.39
+Female,700-81-1757,A,Yangon,Normal,Electronic accessories,26.31,5,6.5775
+Female,354-39-5160,A,Yangon,Member,Home and lifestyle,34.42,6,10.326
+Female,731-81-9469,C,Naypyitaw,Member,Sports and travel,89.8,10,44.9
+Female,338-65-2210,C,Naypyitaw,Member,Health and beauty,68.6,10,34.3
+Female,488-25-4221,C,Naypyitaw,Member,Food and beverages,30.41,1,1.5205
+Female,239-10-7476,A,Yangon,Normal,Home and lifestyle,77.95,6,23.385
+Female,458-41-1477,C,Naypyitaw,Normal,Health and beauty,46.26,6,13.878
+Female,685-64-1609,A,Yangon,Member,Fashion accessories,30.14,10,15.07
+Female,608-96-3517,B,Mandalay,Member,Fashion accessories,91.54,4,18.308
+Female,214-17-6927,C,Naypyitaw,Normal,Food and beverages,16.48,6,4.944
+Female,400-89-4171,C,Naypyitaw,Normal,Sports and travel,80.97,8,32.388
+Female,894-41-5205,C,Naypyitaw,Normal,Food and beverages,43.18,8,17.272
+Female,139-52-2867,C,Naypyitaw,Normal,Fashion accessories,22.51,7,7.8785
+Female,586-25-0848,A,Yangon,Normal,Sports and travel,12.34,7,4.319
+Female,305-14-0245,B,Mandalay,Member,Home and lifestyle,94.49,8,37.796
+Female,593-65-1552,C,Naypyitaw,Normal,Home and lifestyle,69.81,4,13.962
+Female,284-34-9626,B,Mandalay,Normal,Home and lifestyle,77.04,3,11.556
+Female,437-58-8131,B,Mandalay,Normal,Fashion accessories,73.52,2,7.352
+Female,286-43-6208,C,Naypyitaw,Normal,Food and beverages,87.8,9,39.51
+Female,556-86-3144,C,Naypyitaw,Member,Fashion accessories,74.29,1,3.7145
+Female,856-22-8149,A,Yangon,Normal,Home and lifestyle,25.29,1,1.2645
+Female,420-11-4919,C,Naypyitaw,Member,Food and beverages,71.39,5,178.475
+Female,606-80-4905,C,Naypyitaw,Member,Sports and travel,19.15,6,5.745
+Female,542-41-0513,B,Mandalay,Member,Electronic accessories,57.49,4,11.498
+Female,749-24-1565,A,Yangon,Normal,Health and beauty,23.03,9,10.3635
+Female,672-51-8681,C,Naypyitaw,Member,Electronic accessories,66.65,9,299.925
+Female,263-87-5680,C,Naypyitaw,Member,Home and lifestyle,28.53,10,14.265
+Female,573-58-9734,B,Mandalay,Normal,Fashion accessories,30.37,3,4.5555
+Female,817-69-8206,B,Mandalay,Normal,Electronic accessories,99.73,9,448.785
+Female,677-11-0152,C,Naypyitaw,Normal,Food and beverages,93.26,9,41.967
+Female,891-58-8335,B,Mandalay,Member,Sports and travel,29.61,7,10.3635
+Female,560-30-5617,B,Mandalay,Normal,Sports and travel,24.77,5,6.1925
+Female,319-74-2561,A,Yangon,Member,Electronic accessories,94.64,3,14.196
+Female,790-29-1172,B,Mandalay,Normal,Food and beverages,57.34,3,8.601
+Female,279-62-1445,C,Naypyitaw,Member,Fashion accessories,12.54,1,627
+Female,746-68-6593,C,Naypyitaw,Member,Sports and travel,87.16,2,8.716
+Female,466-61-5506,B,Mandalay,Member,Electronic accessories,90.7,6,27.21
+Female,721-86-6247,A,Yangon,Normal,Home and lifestyle,63.42,8,25.368
+Female,289-65-5721,B,Mandalay,Normal,Fashion accessories,81.37,2,8.137
+Female,545-46-3100,B,Mandalay,Member,Electronic accessories,10.59,3,1.5885
+Female,418-02-5978,B,Mandalay,Normal,Health and beauty,84.09,9,378.405
+Female,645-78-8093,A,Yangon,Normal,Sports and travel,93.14,2,9.314
+Female,755-12-3214,C,Naypyitaw,Member,Fashion accessories,44.22,5,11.055
+Female,346-84-3103,B,Mandalay,Member,Electronic accessories,13.22,5,3.305
+Female,866-05-7563,B,Mandalay,Member,Electronic accessories,81.4,3,12.21
+Female,883-17-4236,C,Naypyitaw,Normal,Sports and travel,14.39,2,1.439
+Female,850-41-9669,A,Yangon,Normal,Electronic accessories,75.06,9,33.777
+Female,821-07-3596,C,Naypyitaw,Normal,Fashion accessories,16.45,4,3.29
+Female,655-85-5130,B,Mandalay,Member,Fashion accessories,38.3,4,7.66
+Female,447-15-7839,A,Yangon,Member,Sports and travel,22.24,10,11.12
+Female,253-12-6086,A,Yangon,Member,Sports and travel,98.4,7,34.44
+Female,571-94-0759,B,Mandalay,Member,Food and beverages,74.6,10,37.3
+Female,731-14-2199,A,Yangon,Member,Home and lifestyle,35.54,10,17.77
+Female,783-09-1637,B,Mandalay,Normal,Sports and travel,67.43,5,168.575
+Female,687-15-1097,C,Naypyitaw,Member,Health and beauty,21.12,2,2.112
+Female,126-54-1082,A,Yangon,Member,Home and lifestyle,21.54,9,9.693
+Female,633-91-1052,A,Yangon,Normal,Home and lifestyle,12.03,2,1.203
+Female,477-24-6490,B,Mandalay,Normal,Health and beauty,99.71,6,29.913
+Female,526-86-8552,C,Naypyitaw,Member,Home and lifestyle,21.82,10,10.91
+Female,376-56-3573,C,Naypyitaw,Normal,Fashion accessories,95.42,4,19.084
+Female,136-08-6195,A,Yangon,Normal,Home and lifestyle,69.96,8,27.984
+Female,490-29-1201,A,Yangon,Normal,Sports and travel,15.34,1,767
+Female,565-17-3836,A,Yangon,Member,Health and beauty,47.67,4,9.534
+Female,226-71-3580,C,Naypyitaw,Normal,Sports and travel,23.75,9,10.6875
+Female,283-79-9594,B,Mandalay,Normal,Food and beverages,48.51,7,169.785
+Female,430-60-3493,A,Yangon,Member,Home and lifestyle,94.88,7,33.208
+Female,278-97-7759,A,Yangon,Member,Electronic accessories,62.48,1,3.124
+Female,316-68-6352,A,Yangon,Member,Food and beverages,36.36,2,3.636
+Female,211-05-0490,C,Naypyitaw,Member,Electronic accessories,51.92,5,12.98
+Female,779-06-0012,C,Naypyitaw,Member,Home and lifestyle,88.61,1,4.4305
+Female,439-54-7422,A,Yangon,Normal,Electronic accessories,51.19,4,10.238
+Female,396-90-2219,B,Mandalay,Normal,Electronic accessories,14.96,8,5.984
+Female,286-01-5402,A,Yangon,Normal,Sports and travel,40.23,7,140.805
+Female,803-17-8013,A,Yangon,Member,Home and lifestyle,88.79,8,35.516
+Female,512-98-1403,A,Yangon,Member,Electronic accessories,26.48,3,3.972
+Female,848-42-2560,A,Yangon,Normal,Fashion accessories,81.91,2,8.191
+Female,870-76-1733,A,Yangon,Member,Food and beverages,14.23,5,3.5575
+Female,423-64-4619,A,Yangon,Member,Health and beauty,15.55,9,6.9975
+Female,227-07-4446,C,Naypyitaw,Member,Electronic accessories,78.13,10,39.065
+Female,428-83-5800,C,Naypyitaw,Member,Food and beverages,21.08,3,3.162
+Female,704-20-4138,C,Naypyitaw,Member,Health and beauty,29.67,7,10.3845
+Female,649-11-3678,C,Naypyitaw,Normal,Food and beverages,22.93,9,10.3185
+Female,622-20-1945,C,Naypyitaw,Normal,Health and beauty,39.42,1,1.971
+Female,563-91-7120,A,Yangon,Normal,Fashion accessories,61.77,5,154.425
+Female,527-09-6272,A,Yangon,Member,Electronic accessories,28.45,5,7.1125
+Female,692-27-8933,B,Mandalay,Normal,Sports and travel,57.95,6,17.385
+Female,633-09-3463,C,Naypyitaw,Normal,Electronic accessories,47.65,3,7.1475
+Female,374-17-3652,B,Mandalay,Member,Food and beverages,42.82,9,19.269
+Female,433-75-6987,B,Mandalay,Member,Health and beauty,55.97,7,195.895
+Female,873-95-4984,B,Mandalay,Member,Health and beauty,76.9,7,26.915
+Female,416-13-5917,C,Naypyitaw,Normal,Food and beverages,97.03,5,242.575
+Female,135-84-8019,A,Yangon,Normal,Fashion accessories,77.93,9,350.685
+Female,725-96-3778,C,Naypyitaw,Member,Home and lifestyle,89.25,8,35.7
+Female,400-45-1220,B,Mandalay,Normal,Health and beauty,13.5,10,6.75
+Female,860-79-0874,C,Naypyitaw,Member,Fashion accessories,99.3,10,49.65
+Female,115-99-4379,B,Mandalay,Member,Fashion accessories,54.73,7,191.555
+Female,320-49-6392,C,Naypyitaw,Normal,Electronic accessories,30.24,1,1.512
+Female,889-04-9723,B,Mandalay,Member,Food and beverages,89.14,4,17.828
+Female,632-90-0281,C,Naypyitaw,Normal,Fashion accessories,37.55,10,18.775
+Female,554-42-2417,C,Naypyitaw,Normal,Sports and travel,95.44,10,47.72
+Female,605-72-4132,C,Naypyitaw,Normal,Food and beverages,94.47,8,37.788
+Female,272-27-9238,C,Naypyitaw,Normal,Food and beverages,41.24,4,8.248
+Female,834-25-9262,C,Naypyitaw,Normal,Fashion accessories,81.68,4,16.336
+Female,122-61-9553,C,Naypyitaw,Normal,Electronic accessories,51.32,9,23.094
+Female,613-59-9758,C,Naypyitaw,Normal,Sports and travel,14.36,10,7.18
+Female,201-86-2184,B,Mandalay,Member,Electronic accessories,26.26,7,9.191
+Female,261-12-8671,B,Mandalay,Normal,Fashion accessories,60.96,2,6.096
+Female,730-70-9830,C,Naypyitaw,Normal,Home and lifestyle,70.11,6,21.033
+Female,422-29-8786,A,Yangon,Normal,Home and lifestyle,67.09,5,167.725
+Female,667-23-5919,A,Yangon,Member,Fashion accessories,96.7,5,24.175
+Female,843-01-4703,B,Mandalay,Member,Home and lifestyle,35.38,9,15.921
+Female,182-69-8360,B,Mandalay,Normal,Electronic accessories,23.65,4,4.73
+Female,462-78-5240,C,Naypyitaw,Normal,Electronic accessories,26.61,2,2.661
+Female,868-52-7573,B,Mandalay,Normal,Food and beverages,99.69,5,249.225
+Female,153-58-4872,C,Naypyitaw,Member,Food and beverages,74.89,4,14.978
+Female,662-72-2873,A,Yangon,Normal,Food and beverages,40.94,5,10.235
+Female,725-56-0833,A,Yangon,Normal,Health and beauty,32.32,10,16.16
+Female,394-41-0748,C,Naypyitaw,Member,Fashion accessories,54.07,9,243.315
+Female,541-89-9860,C,Naypyitaw,Member,Fashion accessories,80.48,3,12.072
+Female,173-82-9529,B,Mandalay,Normal,Fashion accessories,37.95,10,18.975
+Female,308-47-4913,A,Yangon,Member,Sports and travel,52.26,10,26.13
+Female,885-17-6250,A,Yangon,Normal,Health and beauty,79.74,1,3.987
+Female,726-27-2396,A,Yangon,Normal,Health and beauty,77.5,5,19.375
+Female,316-01-3952,A,Yangon,Normal,Food and beverages,54.27,5,135.675
+Female,793-10-3222,B,Mandalay,Member,Health and beauty,41.06,6,12.318
+Female,110-05-6330,C,Naypyitaw,Normal,Food and beverages,39.43,6,11.829
+Female,831-64-0259,B,Mandalay,Normal,Fashion accessories,39.75,5,9.9375
+Female,587-03-7455,C,Naypyitaw,Member,Fashion accessories,97.79,7,342.265
+Female,725-32-9708,B,Mandalay,Member,Fashion accessories,68.71,4,13.742
+Female,256-08-8343,A,Yangon,Normal,Home and lifestyle,56.53,4,11.306
+Female,372-26-1506,C,Naypyitaw,Normal,Fashion accessories,23.82,5,5.955
+Female,244-08-0162,B,Mandalay,Normal,Health and beauty,34.21,10,17.105
+Female,750-57-9686,C,Naypyitaw,Normal,Home and lifestyle,45.38,4,9.076
+Female,186-09-3669,C,Naypyitaw,Member,Health and beauty,81.51,1,4.0755
+Female,848-07-1692,B,Mandalay,Normal,Health and beauty,57.22,2,5.722
+Female,745-71-3520,A,Yangon,Member,Electronic accessories,25.22,7,8.827
+Female,266-76-6436,C,Naypyitaw,Member,Food and beverages,38.6,3,5.79
+Female,740-22-2500,C,Naypyitaw,Normal,Electronic accessories,84.05,3,12.6075
+Female,271-88-8734,C,Naypyitaw,Member,Fashion accessories,97.21,10,48.605
+Female,650-98-6268,B,Mandalay,Member,Food and beverages,20.87,3,3.1305
+Female,325-77-6186,A,Yangon,Member,Home and lifestyle,90.65,10,45.325
+Female,459-50-7686,A,Yangon,Normal,Electronic accessories,23.46,6,7.038
+Female,837-55-7229,B,Mandalay,Normal,Fashion accessories,47.44,1,2.372
+Female,810-60-6344,C,Naypyitaw,Normal,Electronic accessories,40.86,8,16.344
+Female,394-30-3170,B,Mandalay,Member,Sports and travel,88.43,8,35.372
+Female,138-17-5109,A,Yangon,Member,Home and lifestyle,89.21,9,401.445
+Female,301-11-9629,A,Yangon,Normal,Sports and travel,19.1,7,6.685
+Female,390-80-5128,B,Mandalay,Member,Health and beauty,19.15,1,9.575
+Female,296-11-7041,B,Mandalay,Member,Health and beauty,27.07,1,1.3535
+Female,449-27-2918,B,Mandalay,Member,Sports and travel,39.12,1,1.956
+Female,891-01-7034,B,Mandalay,Normal,Electronic accessories,74.71,6,22.413
+Female,727-17-0390,A,Yangon,Normal,Food and beverages,63.61,5,159.025
+Female,767-54-1907,B,Mandalay,Member,Fashion accessories,29.56,5,7.39
+Female,710-46-4433,B,Mandalay,Member,Food and beverages,77.4,9,34.83
+Female,325-90-8763,C,Naypyitaw,Member,Electronic accessories,46.57,10,23.285
+Female,234-03-4040,B,Mandalay,Member,Food and beverages,73.05,10,36.525
+Female,326-71-2155,C,Naypyitaw,Normal,Sports and travel,73.95,4,14.79
+Female,320-32-8842,C,Naypyitaw,Member,Food and beverages,22.62,1,1.131
+Female,878-30-2331,C,Naypyitaw,Member,Sports and travel,54.55,10,27.275
+Female,440-59-5691,C,Naypyitaw,Member,Health and beauty,37.15,7,130.025
+Female,233-34-0817,C,Naypyitaw,Member,Electronic accessories,98.84,1,4.942
+Female,767-05-1286,C,Naypyitaw,Member,Home and lifestyle,83.77,6,25.131
+Female,340-21-9136,A,Yangon,Member,Sports and travel,40.05,4,8.01
+Female,676-39-6028,A,Yangon,Member,Electronic accessories,64.44,5,16.11
+Female,485-30-8700,A,Yangon,Normal,Sports and travel,33.26,5,8.315
+Female,246-11-3901,C,Naypyitaw,Normal,Electronic accessories,32.8,10,16.4
+Female,493-65-6248,C,Naypyitaw,Member,Sports and travel,36.98,10,18.49
+Female,438-01-4015,B,Mandalay,Member,Sports and travel,49.49,4,9.898
+Female,709-58-4068,B,Mandalay,Normal,Fashion accessories,41.09,10,20.545
+Female,627-95-3243,B,Mandalay,Member,Home and lifestyle,77.68,9,34.956
+Female,686-41-0932,B,Mandalay,Normal,Fashion accessories,34.7,2,3.47
+Female,510-09-5628,A,Yangon,Member,Fashion accessories,19.66,10,9.83
+Female,608-04-3797,B,Mandalay,Member,Health and beauty,25.32,8,10.128
+Female,148-82-2527,C,Naypyitaw,Member,Home and lifestyle,12.12,10,6.06
+Female,556-97-7101,C,Naypyitaw,Normal,Electronic accessories,63.22,2,6.322
+Female,862-59-8517,C,Naypyitaw,Normal,Food and beverages,90.24,6,27.072
+Female,401-18-8016,B,Mandalay,Member,Sports and travel,98.13,1,4.9065
+Female,420-18-8989,A,Yangon,Member,Sports and travel,51.52,8,20.608
+Female,573-98-8548,C,Naypyitaw,Member,Fashion accessories,31.9,1,1.595
+Female,282-35-2475,B,Mandalay,Normal,Sports and travel,93.31,2,9.331
+Female,387-49-4215,B,Mandalay,Member,Sports and travel,48.5,3,7.275
+Female,862-17-9201,B,Mandalay,Normal,Food and beverages,84.05,6,25.215
+Female,602-80-9671,C,Naypyitaw,Member,Home and lifestyle,15.95,6,4.785
+Female,347-72-6115,B,Mandalay,Member,Sports and travel,90.74,7,31.759
+Female,209-61-0206,A,Yangon,Normal,Home and lifestyle,42.91,5,10.7275
+Female,595-27-4851,A,Yangon,Normal,Fashion accessories,54.28,7,18.998
+Female,413-20-6708,C,Naypyitaw,Member,Fashion accessories,51.47,1,2.5735
+Female,734-91-1155,B,Mandalay,Normal,Electronic accessories,45.71,3,6.8565
+Female,451-28-5717,C,Naypyitaw,Member,Home and lifestyle,83.17,6,24.951
+Female,609-81-8548,A,Yangon,Member,Home and lifestyle,37.44,6,11.232
+Female,719-89-8991,A,Yangon,Member,Sports and travel,91.41,5,228.525
+Female,827-44-5872,B,Mandalay,Member,Food and beverages,54.36,10,27.18
+Female,236-27-1144,C,Naypyitaw,Normal,Food and beverages,16.31,9,7.3395
+Female,892-05-6689,A,Yangon,Normal,Home and lifestyle,28.32,5,7.08
+Female,339-12-4827,B,Mandalay,Member,Fashion accessories,73.96,1,3.698
+Female,308-81-0538,A,Yangon,Normal,Fashion accessories,73.05,4,14.61
+Female,358-88-9262,C,Naypyitaw,Member,Food and beverages,87.48,6,26.244
+Female,173-50-1108,B,Mandalay,Member,Sports and travel,20.18,4,4.036
+Female,841-18-8232,B,Mandalay,Normal,Food and beverages,71.2,1,3.56
+Female,647-50-1224,A,Yangon,Normal,Fashion accessories,29.42,10,14.71
+Female,539-21-7227,B,Mandalay,Normal,Sports and travel,51.54,5,12.885
+Female,213-32-1216,A,Yangon,Normal,Electronic accessories,66.06,6,19.818
+Female,582-52-8065,B,Mandalay,Normal,Fashion accessories,54.31,9,244.395
+Female,210-57-1719,B,Mandalay,Normal,Health and beauty,58.24,9,26.208
+Female,198-66-9832,B,Mandalay,Member,Fashion accessories,72.04,2,7.204
+Female,283-26-5248,C,Naypyitaw,Member,Food and beverages,98.52,10,49.26
+Female,218-59-9410,A,Yangon,Member,Home and lifestyle,72.42,3,10.863
+Female,134-54-4720,B,Mandalay,Normal,Electronic accessories,42.42,8,16.968
+Female,698-98-5964,A,Yangon,Normal,Food and beverages,81.21,10,40.605
+Female,718-57-9773,C,Naypyitaw,Normal,Sports and travel,49.33,10,24.665
+Female,651-88-7328,A,Yangon,Normal,Fashion accessories,65.74,9,29.583
+Female,241-11-2261,B,Mandalay,Normal,Fashion accessories,79.86,7,27.951
+Female,408-26-9866,C,Naypyitaw,Normal,Sports and travel,73.98,7,25.893
+Female,834-83-1826,B,Mandalay,Member,Home and lifestyle,82.04,5,20.51
+Female,797-88-0493,A,Yangon,Normal,Health and beauty,64.27,4,12.854
+Female,443-82-0585,A,Yangon,Member,Health and beauty,77.68,4,15.536
+Female,339-18-7061,C,Naypyitaw,Member,Fashion accessories,92.98,2,9.298
+Female,359-90-3665,B,Mandalay,Member,Fashion accessories,18.08,4,3.616
+Female,278-86-2735,A,Yangon,Normal,Food and beverages,52.34,3,7.851
+Female,695-28-6250,A,Yangon,Normal,Sports and travel,43.06,5,10.765
+Female,788-07-8452,C,Naypyitaw,Member,Home and lifestyle,24.24,7,8.484
+Female,560-49-6611,A,Yangon,Member,Sports and travel,45.58,1,2.279
+Female,880-35-0356,A,Yangon,Member,Sports and travel,75.2,3,11.28
+Female,123-35-4896,C,Naypyitaw,Normal,Sports and travel,46.66,9,20.997
+Female,258-69-7810,C,Naypyitaw,Normal,Fashion accessories,36.85,5,9.2125
+Female,334-64-2006,A,Yangon,Member,Home and lifestyle,70.32,2,7.032
+Female,881-41-7302,C,Naypyitaw,Normal,Fashion accessories,64.99,1,3.2495
+Female,642-30-6693,B,Mandalay,Normal,Sports and travel,54.51,6,16.353
+Female,484-22-8230,C,Naypyitaw,Member,Fashion accessories,51.89,7,181.615
+Female,559-98-9873,A,Yangon,Member,Fashion accessories,53.65,7,187.775
+Female,544-32-5024,C,Naypyitaw,Member,Food and beverages,49.79,4,9.958
+Female,421-95-9805,A,Yangon,Normal,Electronic accessories,28.96,1,1.448
+Female,277-35-5865,C,Naypyitaw,Member,Food and beverages,98.97,9,445.365
+Female,509-29-3912,A,Yangon,Member,Sports and travel,38.72,9,17.424
+Female,641-96-3695,C,Naypyitaw,Member,Fashion accessories,43.46,6,13.038
+Female,420-97-3340,A,Yangon,Normal,Food and beverages,71.68,3,10.752
+Female,436-54-4512,A,Yangon,Member,Food and beverages,91.61,1,4.5805
+Female,670-79-6321,B,Mandalay,Member,Home and lifestyle,94.59,7,331.065
+Female,852-62-7105,B,Mandalay,Normal,Fashion accessories,83.25,10,41.625
+Female,135-13-8269,B,Mandalay,Member,Food and beverages,78.88,2,7.888
+Female,308-39-1707,A,Yangon,Normal,Fashion accessories,12.09,1,6.045
+Female,318-81-2368,C,Naypyitaw,Normal,Electronic accessories,46.2,1,2.31
+Female,364-33-8584,B,Mandalay,Member,Food and beverages,17.63,5,4.4075
+Female,695-09-5146,B,Mandalay,Member,Food and beverages,98.79,3,148.185
+Female,155-45-3814,C,Naypyitaw,Member,Electronic accessories,88.55,8,35.42
+Female,131-15-8856,C,Naypyitaw,Member,Food and beverages,72.52,8,29.008
+Female,859-71-0933,C,Naypyitaw,Member,Sports and travel,15.49,2,1.549
+Female,563-47-4072,B,Mandalay,Normal,Health and beauty,55.81,6,16.743
+Female,169-52-4504,A,Yangon,Normal,Electronic accessories,15.69,3,2.3535
+Female,250-81-7186,C,Naypyitaw,Normal,Electronic accessories,99.69,1,4.9845
+Female,562-12-5430,A,Yangon,Member,Fashion accessories,88.15,3,132.225
+Female,816-72-8853,A,Yangon,Member,Sports and travel,27.93,5,6.9825
+Female,322-02-2271,B,Mandalay,Normal,Sports and travel,42.97,3,6.4455
+Female,725-67-2480,B,Mandalay,Member,Fashion accessories,58.75,6,17.625
+Female,641-51-2661,C,Naypyitaw,Member,Food and beverages,87.1,10,43.55
+Female,714-02-3114,C,Naypyitaw,Normal,Sports and travel,98.8,2,9.88
+Female,518-17-2983,A,Yangon,Normal,Fashion accessories,48.63,4,9.726
+Female,190-14-3147,B,Mandalay,Normal,Health and beauty,17.97,4,3.594
+Female,408-66-6712,C,Naypyitaw,Member,Health and beauty,47.71,6,14.313
+Female,679-22-6530,B,Mandalay,Normal,Sports and travel,40.62,2,4.062
+Female,576-31-4774,B,Mandalay,Normal,Health and beauty,73.41,3,11.0115
+Female,811-03-8790,A,Yangon,Normal,Electronic accessories,45.48,10,22.74
+Female,752-23-3760,B,Mandalay,Member,Sports and travel,64.08,7,22.428
+Female,274-05-5470,A,Yangon,Member,Food and beverages,73.47,4,14.694
+Female,528-87-5606,B,Mandalay,Member,Electronic accessories,39.48,1,1.974
+Female,320-85-2052,B,Mandalay,Normal,Sports and travel,34.81,1,1.7405
+Female,370-96-0655,C,Naypyitaw,Normal,Fashion accessories,49.32,6,14.796
+Female,510-79-0415,B,Mandalay,Member,Sports and travel,23.08,6,6.924
+Female,241-96-5076,B,Mandalay,Member,Home and lifestyle,49.1,2,4.91
+Female,767-97-4650,B,Mandalay,Member,Sports and travel,64.83,2,6.483
+Female,305-03-2383,A,Yangon,Normal,Food and beverages,67.1,3,10.065
+Female,394-55-6384,C,Naypyitaw,Member,Sports and travel,70.19,9,315.855
+Female,196-01-2849,C,Naypyitaw,Member,Fashion accessories,73.38,7,25.683
+Female,372-62-5264,C,Naypyitaw,Normal,Food and beverages,52.6,9,23.67
+Female,800-09-8606,A,Yangon,Member,Home and lifestyle,87.37,5,218.425
+Female,182-52-7000,A,Yangon,Member,Sports and travel,27.04,4,5.408
+Female,626-43-7888,C,Naypyitaw,Normal,Fashion accessories,60.41,8,24.164
+Female,191-29-0321,B,Mandalay,Member,Fashion accessories,19.77,10,9.885
+Female,640-48-5028,B,Mandalay,Member,Home and lifestyle,88.39,9,397.755
+Female,834-45-5519,B,Mandalay,Normal,Electronic accessories,43,4,8.6
+Female,728-88-7867,C,Naypyitaw,Member,Home and lifestyle,75.53,4,15.106
+Female,183-21-3799,C,Naypyitaw,Normal,Electronic accessories,77.63,9,349.335
+Female,268-20-3585,C,Naypyitaw,Normal,Health and beauty,13.85,9,6.2325
+Female,258-92-7466,A,Yangon,Normal,Health and beauty,35.68,5,8.92
+Female,857-16-3520,A,Yangon,Member,Fashion accessories,71.46,7,25.011
+Female,821-14-9046,B,Mandalay,Member,Fashion accessories,17.48,6,5.244
+Female,418-05-0656,B,Mandalay,Normal,Fashion accessories,25.56,7,8.946
+Female,678-79-0726,C,Naypyitaw,Member,Sports and travel,90.63,9,407.835
+Female,592-46-1692,C,Naypyitaw,Member,Food and beverages,36.77,7,12.8695
+Female,149-14-0304,C,Naypyitaw,Member,Health and beauty,28.5,8,11.4
+Female,299-29-0180,B,Mandalay,Member,Home and lifestyle,52.18,7,18.263
+Female,247-11-2470,A,Yangon,Member,Fashion accessories,22.32,4,4.464
+Female,386-27-7606,C,Naypyitaw,Member,Home and lifestyle,81.2,7,28.42
+Female,373-14-0504,A,Yangon,Member,Sports and travel,71.63,2,7.163
+Female,345-68-9016,C,Naypyitaw,Member,Sports and travel,31.67,8,12.668
+Female,390-17-5806,C,Naypyitaw,Member,Food and beverages,38.42,1,1.921
+Female,664-14-2882,C,Naypyitaw,Member,Home and lifestyle,10.53,5,2.6325
+Female,487-79-6868,B,Mandalay,Member,Home and lifestyle,12.29,9,5.5305
+Female,210-30-7976,B,Mandalay,Member,Fashion accessories,22.32,4,4.464
+Female,585-86-8361,A,Yangon,Normal,Food and beverages,27.28,5,6.82
+Female,807-14-7833,A,Yangon,Member,Electronic accessories,17.42,10,8.71
+Female,288-38-3758,C,Naypyitaw,Member,Fashion accessories,84.87,3,12.7305
+Female,652-43-6591,A,Yangon,Normal,Fashion accessories,97.29,8,38.916
+Female,785-96-0615,B,Mandalay,Member,Electronic accessories,35.74,8,14.296
+Female,406-46-7107,A,Yangon,Normal,Home and lifestyle,96.52,6,28.956
+Female,156-95-3964,A,Yangon,Normal,Food and beverages,55.39,4,11.078
+Female,842-40-8179,B,Mandalay,Member,Food and beverages,77.2,10,38.6
+Female,410-67-1709,A,Yangon,Member,Fashion accessories,63.88,8,25.552
+Female,587-73-4862,A,Yangon,Member,Health and beauty,10.69,5,2.6725
+Female,593-14-4239,B,Mandalay,Normal,Home and lifestyle,95.46,8,38.184
+Female,801-88-0346,C,Naypyitaw,Normal,Fashion accessories,76.06,3,11.409
+Female,711-31-1234,B,Mandalay,Normal,Electronic accessories,95.64,4,19.128
+Female,886-54-6089,A,Yangon,Normal,Home and lifestyle,11.43,6,3.429
+Female,707-32-7409,B,Mandalay,Member,Sports and travel,95.54,4,19.108
+Female,759-98-4285,C,Naypyitaw,Member,Health and beauty,85.87,7,300.545
+Female,201-63-8275,C,Naypyitaw,Member,Sports and travel,67.99,7,237.965
+Female,471-06-8611,C,Naypyitaw,Normal,Food and beverages,52.42,1,2.621
+Female,120-54-2248,B,Mandalay,Normal,Food and beverages,28.86,5,7.215
+Female,534-53-3526,A,Yangon,Normal,Sports and travel,94.76,4,18.952
+Female,307-04-2070,A,Yangon,Member,Fashion accessories,30.62,1,1.531
+Female,468-99-7231,C,Naypyitaw,Normal,Home and lifestyle,44.01,8,17.604
+Female,516-77-6464,C,Naypyitaw,Member,Health and beauty,10.16,5,2.54
+Female,790-38-4466,C,Naypyitaw,Normal,Health and beauty,10.99,5,2.7475
+Female,744-16-7898,B,Mandalay,Normal,Home and lifestyle,97.37,10,48.685
+Female,702-72-0487,A,Yangon,Normal,Electronic accessories,46.61,2,4.661
+Female,443-60-9639,C,Naypyitaw,Member,Home and lifestyle,60.87,1,3.0435
+Female,864-24-7918,A,Yangon,Member,Sports and travel,24.49,10,12.245
+Female,324-41-6833,C,Naypyitaw,Member,Electronic accessories,30.2,8,12.08
+Female,759-29-9521,A,Yangon,Member,Fashion accessories,48.96,9,22.032
+Female,831-81-6575,B,Mandalay,Member,Electronic accessories,75.59,9,340.155
+Female,220-68-6701,A,Yangon,Normal,Home and lifestyle,77.47,4,15.494
+Female,618-34-8551,A,Yangon,Normal,Sports and travel,93.18,2,9.318
+Female,257-60-7754,A,Yangon,Normal,Electronic accessories,50.23,4,10.046
+Female,559-61-5987,B,Mandalay,Normal,Health and beauty,17.75,1,8.875
+Female,189-55-2313,C,Naypyitaw,Normal,Fashion accessories,62.18,10,31.09
+Female,380-60-5336,A,Yangon,Normal,Electronic accessories,40.26,10,20.13
+Female,815-04-6282,C,Naypyitaw,Member,Sports and travel,64.97,5,162.425
+Female,778-34-2523,A,Yangon,Member,Electronic accessories,48.62,8,19.448
+Female,499-27-7781,B,Mandalay,Normal,Food and beverages,53.21,8,21.284
+Female,477-59-2456,C,Naypyitaw,Normal,Fashion accessories,45.44,7,15.904
+Female,186-43-8965,A,Yangon,Member,Home and lifestyle,47.68,2,4.768
+Female,276-75-6884,A,Yangon,Normal,Health and beauty,68.71,3,10.3065
+Female,109-86-4363,B,Mandalay,Member,Sports and travel,60.08,7,21.028
+Female,569-76-2760,A,Yangon,Member,Sports and travel,22.01,4,4.402
+Female,222-42-0244,B,Mandalay,Member,Health and beauty,72.11,9,324.495
+Female,416-17-9926,A,Yangon,Member,Electronic accessories,74.22,10,37.11
+Female,343-75-9322,B,Mandalay,Member,Sports and travel,11.85,8,4.74
+Female,427-45-9297,B,Mandalay,Member,Home and lifestyle,40.73,7,142.555
+Female,271-77-8740,C,Naypyitaw,Member,Sports and travel,29.22,6,8.766
+Female,860-73-6466,A,Yangon,Member,Sports and travel,39.47,2,3.947
+Female,549-23-9016,C,Naypyitaw,Member,Food and beverages,14.87,2,1.487
+Female,862-29-5914,C,Naypyitaw,Normal,Sports and travel,22.38,1,1.119
+Female,845-94-6841,C,Naypyitaw,Member,Food and beverages,72.88,9,32.796
+Female,125-45-2293,A,Yangon,Normal,Fashion accessories,99.1,6,29.73
+Female,409-33-9708,A,Yangon,Normal,Fashion accessories,98.48,2,9.848
+Female,866-70-2814,B,Mandalay,Normal,Electronic accessories,52.79,10,26.395
+Female,160-22-2687,A,Yangon,Member,Health and beauty,95.95,5,239.875
+Female,895-03-6665,B,Mandalay,Normal,Fashion accessories,36.51,9,164.295
+Female,748-45-2862,A,Yangon,Member,Home and lifestyle,28.31,4,5.662
+Female,316-66-3011,A,Yangon,Member,Food and beverages,47.63,9,214.335
+Female,848-95-6252,C,Naypyitaw,Member,Home and lifestyle,86.27,1,4.3135
+Female,152-03-4217,B,Mandalay,Normal,Home and lifestyle,11.28,9,5.076
+Female,533-66-5566,B,Mandalay,Normal,Home and lifestyle,51.07,7,178.745
+Female,124-31-1458,A,Yangon,Member,Electronic accessories,79.59,3,11.9385
+Female,101-81-4070,C,Naypyitaw,Member,Health and beauty,62.82,2,6.282
+Female,544-55-9589,B,Mandalay,Member,Electronic accessories,21.43,10,10.715
+Female,448-61-3783,A,Yangon,Normal,Electronic accessories,90.02,8,36.008
+Female,761-49-0439,B,Mandalay,Member,Electronic accessories,12.1,8,4.84
+Female,490-95-0021,B,Mandalay,Member,Food and beverages,33.21,10,16.605
+Female,115-38-7388,C,Naypyitaw,Member,Fashion accessories,10.18,8,4.072
+Female,291-55-6563,A,Yangon,Member,Home and lifestyle,34.42,6,10.326
+Female,548-48-3156,A,Yangon,Member,Food and beverages,83.34,2,8.334
+Female,884-80-6021,A,Yangon,Member,Electronic accessories,73.47,10,36.735
+Female,137-74-8729,C,Naypyitaw,Normal,Fashion accessories,12.19,8,4.876
+Female,389-70-2397,C,Naypyitaw,Normal,Health and beauty,83.66,5,20.915
+Female,114-35-5271,B,Mandalay,Normal,Electronic accessories,57.91,8,23.164
+Female,607-76-6216,C,Naypyitaw,Member,Fashion accessories,92.49,5,231.225
+Female,409-49-6995,C,Naypyitaw,Member,Food and beverages,47.27,6,14.181
+Female,377-79-7592,C,Naypyitaw,Member,Electronic accessories,44.84,9,20.178
+Female,595-94-9924,A,Yangon,Member,Health and beauty,27.73,5,6.9325
+Female,545-07-8534,C,Naypyitaw,Normal,Health and beauty,58.32,2,5.832
+Female,118-62-1812,C,Naypyitaw,Member,Home and lifestyle,78.38,4,15.676
+Female,851-98-3555,B,Mandalay,Normal,Health and beauty,82.88,5,20.72
+Female,186-71-5196,A,Yangon,Member,Food and beverages,79.54,2,7.954
+Female,624-01-8356,B,Mandalay,Normal,Home and lifestyle,49.01,10,24.505
+Female,313-66-9943,B,Mandalay,Member,Food and beverages,29.15,3,4.3725
+Female,151-27-8496,C,Naypyitaw,Normal,Electronic accessories,56.13,4,11.226
+Female,453-33-6436,A,Yangon,Normal,Home and lifestyle,93.12,8,37.248
+Female,459-45-2396,A,Yangon,Member,Food and beverages,99.6,3,14.94
+Female,717-96-4189,C,Naypyitaw,Normal,Electronic accessories,35.49,6,10.647
+Female,749-81-8133,A,Yangon,Normal,Fashion accessories,94.67,4,18.934
+Female,636-98-3364,B,Mandalay,Member,Electronic accessories,26.26,3,3.939
+Female,246-55-6923,C,Naypyitaw,Member,Home and lifestyle,35.79,9,161.055
+Female,181-82-6255,B,Mandalay,Normal,Home and lifestyle,16.37,6,4.911
+Female,838-02-1821,C,Naypyitaw,Member,Home and lifestyle,12.73,2,1.273
+Female,887-42-0517,C,Naypyitaw,Normal,Sports and travel,83.14,7,29.099
+Female,457-12-0244,C,Naypyitaw,Member,Sports and travel,35.22,6,10.566
+Female,226-34-0034,B,Mandalay,Normal,Electronic accessories,13.78,4,2.756
+Female,397-25-8725,A,Yangon,Member,Health and beauty,39.62,9,17.829
+Female,431-66-2305,B,Mandalay,Normal,Electronic accessories,88.25,9,397.125
+Female,756-93-1854,C,Naypyitaw,Member,Fashion accessories,83.35,2,8.335
+Female,243-55-8457,A,Yangon,Normal,Food and beverages,74.44,10,37.22
+Female,501-61-1753,B,Mandalay,Normal,Home and lifestyle,63.15,6,18.945
+Female,433-08-7822,C,Naypyitaw,Normal,Health and beauty,78.89,7,276.115
+Female,361-85-2571,A,Yangon,Normal,Sports and travel,89.48,5,22.37
+Female,131-70-8179,A,Yangon,Member,Health and beauty,92.09,3,138.135
+Female,500-02-2261,C,Naypyitaw,Normal,Food and beverages,57.29,6,17.187
+Female,809-69-9497,A,Yangon,Normal,Home and lifestyle,45.68,10,22.84
+Female,489-82-1237,A,Yangon,Normal,Electronic accessories,93.88,7,32.858
+Female,365-16-4334,B,Mandalay,Normal,Food and beverages,26.43,8,10.572
+Female,305-89-2768,B,Mandalay,Member,Home and lifestyle,21.9,3,3.285
+Female,574-80-1489,B,Mandalay,Member,Food and beverages,62.85,4,12.57
+Female,784-08-0310,C,Naypyitaw,Member,Food and beverages,21.04,4,4.208
+Female,846-10-0341,A,Yangon,Normal,Fashion accessories,42.57,7,148.995
+Female,867-47-1948,C,Naypyitaw,Normal,Home and lifestyle,15.8,10,7.9
+Female,384-59-6655,A,Yangon,Member,Food and beverages,98.66,9,44.397
+Female,593-08-5916,A,Yangon,Normal,Fashion accessories,15.5,1,775
+Female,172-42-8274,B,Mandalay,Normal,Electronic accessories,38.27,2,3.827
+Female,558-60-5016,A,Yangon,Normal,Home and lifestyle,33.3,9,14.985
+Female,605-03-2706,A,Yangon,Normal,Health and beauty,15.8,3,2.37
+Female,214-30-2776,B,Mandalay,Member,Electronic accessories,34.49,5,8.6225
+Female,746-04-1077,B,Mandalay,Member,Food and beverages,84.63,10,42.315
+Female,221-25-5073,A,Yangon,Normal,Food and beverages,74.66,4,14.932
+Female,156-20-0370,B,Mandalay,Normal,Electronic accessories,25.45,1,1.2725
+Female,151-33-7434,B,Mandalay,Normal,Food and beverages,67.77,1,3.3885
+Female,139-32-4183,A,Yangon,Member,Sports and travel,97.48,9,43.866
+Female,374-38-5555,B,Mandalay,Normal,Fashion accessories,63.71,5,159.275
+Female,764-44-8999,B,Mandalay,Normal,Health and beauty,14.76,2,1.476
+Female,886-18-2897,A,Yangon,Normal,Food and beverages,56.56,5,14.14
+Female,602-16-6955,B,Mandalay,Normal,Sports and travel,76.6,10,38.3
+Female,652-49-6720,C,Naypyitaw,Member,Electronic accessories,60.95,1,3.0475
+Female,303-96-2227,B,Mandalay,Normal,Home and lifestyle,97.38,10,48.69
+Female,849-09-3807,A,Yangon,Member,Fashion accessories,88.34,7,30.919
+Male,631-41-3108,A,Yangon,Normal,Home and lifestyle,46.33,7,162.155
+Male,123-19-1176,A,Yangon,Member,Health and beauty,58.22,8,23.288
+Male,373-73-7910,A,Yangon,Normal,Sports and travel,86.31,7,302.085
+Male,699-14-3026,C,Naypyitaw,Normal,Electronic accessories,85.39,7,298.865
+Male,529-56-3974,B,Mandalay,Member,Electronic accessories,25.51,4,5.102
+Male,252-56-2699,A,Yangon,Normal,Food and beverages,43.19,10,21.595
+Male,765-26-6951,A,Yangon,Normal,Sports and travel,72.61,6,21.783
+Male,329-62-1586,A,Yangon,Normal,Food and beverages,54.67,3,8.2005
+Male,300-71-4605,C,Naypyitaw,Member,Electronic accessories,86.04,5,21.51
+Male,371-85-5789,B,Mandalay,Normal,Health and beauty,87.98,3,13.197
+Male,273-16-6619,B,Mandalay,Normal,Home and lifestyle,33.2,2,3.32
+Male,636-48-8204,A,Yangon,Normal,Electronic accessories,34.56,5,8.64
+Male,549-59-1358,A,Yangon,Member,Sports and travel,88.63,3,132.945
+Male,649-29-6775,B,Mandalay,Normal,Fashion accessories,33.52,1,1.676
+Male,848-62-7243,A,Yangon,Normal,Health and beauty,24.89,9,11.2005
+Male,871-79-8483,B,Mandalay,Normal,Fashion accessories,94.13,5,235.325
+Male,149-71-6266,B,Mandalay,Member,Sports and travel,78.07,9,351.315
+Male,640-49-2076,B,Mandalay,Normal,Sports and travel,83.78,8,33.512
+Male,595-11-5460,A,Yangon,Normal,Health and beauty,96.58,2,9.658
+Male,129-29-8530,A,Yangon,Member,Sports and travel,62.62,5,15.655
+Male,777-82-7220,B,Mandalay,Member,Home and lifestyle,30.12,8,12.048
+Male,554-53-8700,C,Naypyitaw,Member,Home and lifestyle,56.11,2,5.611
+Male,617-15-4209,C,Naypyitaw,Member,Health and beauty,15.37,2,1.537
+Male,370-41-7321,B,Mandalay,Member,Health and beauty,56.69,9,255.105
+Male,669-54-1719,B,Mandalay,Member,Electronic accessories,18.93,6,5.679
+Male,326-78-5178,C,Naypyitaw,Member,Food and beverages,91.4,7,31.99
+Male,778-71-5554,C,Naypyitaw,Member,Fashion accessories,15.43,1,7.715
+Male,242-55-6721,B,Mandalay,Normal,Home and lifestyle,16.16,2,1.616
+Male,106-35-6779,A,Yangon,Member,Home and lifestyle,44.34,2,4.434
+Male,635-40-6220,A,Yangon,Normal,Health and beauty,89.6,8,35.84
+Male,120-06-4233,C,Naypyitaw,Normal,Electronic accessories,30.61,6,9.183
+Male,803-83-5989,C,Naypyitaw,Normal,Home and lifestyle,55.73,6,16.719
+Male,199-75-8169,A,Yangon,Member,Sports and travel,15.81,10,7.905
+Male,853-23-2453,B,Mandalay,Member,Health and beauty,75.74,4,15.148
+Male,877-22-3308,A,Yangon,Member,Health and beauty,15.87,10,7.935
+Male,232-11-3025,A,Yangon,Normal,Sports and travel,78.77,10,39.385
+Male,393-65-2792,C,Naypyitaw,Normal,Food and beverages,89.48,10,44.74
+Male,796-12-2025,C,Naypyitaw,Normal,Fashion accessories,62.12,10,31.06
+Male,287-21-9091,A,Yangon,Normal,Home and lifestyle,74.67,9,336.015
+Male,263-10-3913,C,Naypyitaw,Member,Fashion accessories,49.04,9,22.068
+Male,480-63-2856,C,Naypyitaw,Normal,Food and beverages,19.25,8,7.7
+Male,360-39-5055,C,Naypyitaw,Member,Sports and travel,48.91,5,12.2275
+Male,362-58-8315,C,Naypyitaw,Normal,Fashion accessories,76.52,5,19.13
+Male,633-44-8566,A,Yangon,Member,Food and beverages,49.38,7,17.283
+Male,504-35-8843,A,Yangon,Normal,Sports and travel,42.47,1,2.1235
+Male,152-08-9985,B,Mandalay,Member,Health and beauty,64.36,9,28.962
+Male,512-91-0811,C,Naypyitaw,Normal,Health and beauty,89.75,1,4.4875
+Male,594-34-4444,A,Yangon,Normal,Electronic accessories,97.16,1,4.858
+Male,766-85-7061,B,Mandalay,Normal,Health and beauty,87.87,10,43.935
+Male,865-92-6136,A,Yangon,Normal,Food and beverages,52.75,3,7.9125
+Male,733-01-9107,B,Mandalay,Normal,Home and lifestyle,82.7,6,24.81
+Male,163-56-7055,C,Naypyitaw,Member,Fashion accessories,48.71,1,2.4355
+Male,189-98-2939,C,Naypyitaw,Normal,Fashion accessories,78.55,9,353.475
+Male,212-62-1842,A,Yangon,Normal,Food and beverages,58.26,6,17.478
+Male,716-39-1409,B,Mandalay,Normal,Health and beauty,30.35,7,10.6225
+Male,704-48-3927,A,Yangon,Member,Electronic accessories,88.67,10,44.335
+Male,628-34-3388,C,Naypyitaw,Normal,Fashion accessories,27.38,6,8.214
+Male,630-74-5166,A,Yangon,Normal,Sports and travel,62.13,6,18.639
+Male,861-77-0145,C,Naypyitaw,Member,Electronic accessories,81.97,10,40.985
+Male,645-44-1170,A,Yangon,Member,Home and lifestyle,58.07,9,261.315
+Male,291-32-1427,B,Mandalay,Member,Fashion accessories,21.94,5,5.485
+Male,659-65-8956,B,Mandalay,Member,Fashion accessories,51.36,1,2.568
+Male,378-24-2715,B,Mandalay,Normal,Home and lifestyle,53.44,2,5.344
+Male,659-36-1684,C,Naypyitaw,Member,Sports and travel,57.12,7,19.992
+Male,219-22-9386,B,Mandalay,Member,Sports and travel,99.96,9,44.982
+Male,336-78-2147,C,Naypyitaw,Member,Home and lifestyle,63.91,8,25.564
+Male,590-83-4591,B,Mandalay,Member,Electronic accessories,87.45,6,26.235
+Male,597-78-7908,C,Naypyitaw,Normal,Fashion accessories,90.22,3,13.533
+Male,241-72-9525,B,Mandalay,Normal,Sports and travel,51.91,10,25.955
+Male,575-30-8091,A,Yangon,Normal,Sports and travel,72.5,8,29
+Male,280-17-4359,C,Naypyitaw,Member,Health and beauty,90.5,10,45.25
+Male,568-90-5112,C,Naypyitaw,Normal,Health and beauty,66.14,4,13.228
+Male,262-47-2794,B,Mandalay,Member,Home and lifestyle,71.86,8,28.744
+Male,238-49-0436,A,Yangon,Normal,Health and beauty,32.46,8,12.984
+Male,584-86-7256,C,Naypyitaw,Member,Sports and travel,34.56,7,12.096
+Male,746-94-0204,A,Yangon,Normal,Fashion accessories,83.24,9,37.458
+Male,782-95-9291,A,Yangon,Member,Food and beverages,92.29,5,230.725
+Male,279-74-2924,B,Mandalay,Member,Electronic accessories,72.17,1,3.6085
+Male,307-85-2293,B,Mandalay,Normal,Home and lifestyle,50.28,5,12.57
+Male,743-04-1105,B,Mandalay,Member,Health and beauty,97.22,9,43.749
+Male,423-57-2993,B,Mandalay,Normal,Sports and travel,93.39,6,28.017
+Male,275-28-0149,A,Yangon,Normal,Sports and travel,63.69,1,3.1845
+Male,101-17-6199,A,Yangon,Normal,Food and beverages,45.79,7,160.265
+Male,423-80-0988,C,Naypyitaw,Normal,Sports and travel,76.4,2,7.64
+Male,548-46-9322,B,Mandalay,Normal,Food and beverages,39.9,10,19.95
+Male,505-02-0892,B,Mandalay,Member,Health and beauty,42.57,8,17.028
+Male,234-65-2137,C,Naypyitaw,Normal,Home and lifestyle,95.58,10,47.79
+Male,687-47-8271,A,Yangon,Normal,Fashion accessories,98.98,10,49.49
+Male,796-32-9050,A,Yangon,Normal,Food and beverages,51.28,6,15.384
+Male,105-31-1824,A,Yangon,Member,Sports and travel,69.52,7,24.332
+Male,249-42-3782,A,Yangon,Normal,Health and beauty,70.01,5,175.025
+Male,316-55-4634,B,Mandalay,Member,Food and beverages,80.05,5,200.125
+Male,733-33-4967,C,Naypyitaw,Normal,Electronic accessories,20.85,8,8.34
+Male,608-27-6295,B,Mandalay,Member,Electronic accessories,52.89,6,15.867
+Male,414-12-7047,B,Mandalay,Normal,Food and beverages,19.79,8,7.916
+Male,827-26-2100,A,Yangon,Member,Home and lifestyle,33.84,9,15.228
+Male,175-54-2529,A,Yangon,Member,Food and beverages,22.17,8,8.868
+Male,407-63-8975,A,Yangon,Normal,Food and beverages,73.88,6,22.164
+Male,342-65-4817,C,Naypyitaw,Member,Health and beauty,86.8,3,13.02
+Male,130-98-8941,C,Naypyitaw,Normal,Fashion accessories,64.26,7,22.491
+Male,434-83-9547,C,Naypyitaw,Member,Food and beverages,38.47,8,15.388
+Male,851-28-6367,A,Yangon,Member,Sports and travel,15.5,10,7.75
+Male,824-88-3614,C,Naypyitaw,Normal,Health and beauty,34.31,8,13.724
+Male,895-66-0685,B,Mandalay,Member,Food and beverages,18.08,3,2.712
+Male,732-04-5373,B,Mandalay,Member,Home and lifestyle,46.47,4,9.294
+Male,400-60-7251,A,Yangon,Normal,Home and lifestyle,74.07,1,3.7035
+Male,641-43-2399,B,Mandalay,Normal,Home and lifestyle,25.55,4,5.11
+Male,831-07-6050,A,Yangon,Normal,Electronic accessories,32.71,5,8.1775
+Male,848-24-9445,C,Naypyitaw,Member,Health and beauty,43.7,2,4.37
+Male,699-01-4164,C,Naypyitaw,Normal,Health and beauty,41.5,4,8.3
+Male,426-39-2418,C,Naypyitaw,Normal,Electronic accessories,61.41,7,214.935
+Male,875-46-5808,B,Mandalay,Member,Health and beauty,25.9,10,12.95
+Male,394-43-4238,B,Mandalay,Member,Home and lifestyle,17.77,5,4.4425
+Male,888-02-0338,A,Yangon,Normal,Electronic accessories,26.23,9,11.8035
+Male,142-63-6033,B,Mandalay,Normal,Home and lifestyle,92.36,5,23.09
+Male,656-16-1063,B,Mandalay,Normal,Sports and travel,46.42,3,6.963
+Male,802-43-8934,A,Yangon,Normal,Home and lifestyle,18.28,1,914
+Male,549-03-9315,B,Mandalay,Normal,Fashion accessories,94.87,8,37.948
+Male,239-36-3640,B,Mandalay,Normal,Electronic accessories,45.35,6,13.605
+Male,468-01-2051,B,Mandalay,Normal,Food and beverages,62.08,7,21.728
+Male,389-25-3394,C,Naypyitaw,Normal,Electronic accessories,11.81,5,2.9525
+Male,213-72-6612,A,Yangon,Normal,Food and beverages,43.25,2,4.325
+Male,836-82-5858,B,Mandalay,Member,Health and beauty,69.37,9,312.165
+Male,583-72-1480,C,Naypyitaw,Member,Electronic accessories,37.06,4,7.412
+Male,269-04-5750,B,Mandalay,Member,Fashion accessories,73.82,4,14.764
+Male,157-13-5295,A,Yangon,Member,Health and beauty,51.94,10,25.97
+Male,211-30-9270,C,Naypyitaw,Normal,Health and beauty,17.41,5,4.3525
+Male,478-06-7835,A,Yangon,Normal,Fashion accessories,89.69,1,4.4845
+Male,540-11-4336,A,Yangon,Normal,Food and beverages,24.94,9,11.223
+Male,448-81-5016,A,Yangon,Normal,Health and beauty,59.77,2,5.977
+Male,142-72-4741,C,Naypyitaw,Member,Fashion accessories,93.2,2,9.32
+Male,217-58-1179,A,Yangon,Member,Home and lifestyle,62.65,4,12.53
+Male,376-02-8238,B,Mandalay,Normal,Home and lifestyle,93.87,8,37.548
+Male,530-90-9855,A,Yangon,Member,Home and lifestyle,47.59,8,19.036
+Male,604-70-6476,A,Yangon,Member,Fashion accessories,17.94,5,4.485
+Male,799-71-1548,A,Yangon,Member,Electronic accessories,77.72,4,15.544
+Male,785-13-7708,B,Mandalay,Normal,Food and beverages,73.06,7,25.571
+Male,845-51-0542,B,Mandalay,Member,Food and beverages,46.55,9,209.475
+Male,662-47-5456,C,Naypyitaw,Member,Fashion accessories,35.19,10,17.595
+Male,290-68-2984,A,Yangon,Normal,Home and lifestyle,23.75,4,4.75
+Male,704-11-6354,A,Yangon,Member,Home and lifestyle,58.9,8,23.56
+Male,110-48-7033,B,Mandalay,Member,Fashion accessories,32.62,4,6.524
+Male,366-93-0948,A,Yangon,Member,Electronic accessories,66.35,1,3.3175
+Male,729-09-9681,A,Yangon,Member,Home and lifestyle,25.91,6,7.773
+Male,151-16-1484,A,Yangon,Member,Electronic accessories,32.25,4,6.45
+Male,380-94-4661,C,Naypyitaw,Member,Electronic accessories,65.94,4,13.188
+Male,154-74-7179,B,Mandalay,Normal,Sports and travel,54.45,1,2.7225
+Male,808-65-0703,C,Naypyitaw,Normal,Home and lifestyle,35.47,4,7.094
+Male,144-51-6085,A,Yangon,Member,Home and lifestyle,70.74,4,14.148
+Male,566-19-5475,B,Mandalay,Normal,Fashion accessories,47.97,7,167.895
+Male,537-72-0426,C,Naypyitaw,Member,Fashion accessories,70.99,10,35.495
+Male,828-61-5674,A,Yangon,Member,Sports and travel,44.02,10,22.01
+Male,523-38-0215,C,Naypyitaw,Normal,Home and lifestyle,37,1,1.85
+Male,667-92-0055,A,Yangon,Member,Health and beauty,99.83,6,29.949
+Male,498-41-1961,B,Mandalay,Normal,Health and beauty,66.68,5,16.67
+Male,593-95-4461,C,Naypyitaw,Member,Home and lifestyle,74.86,1,3.743
+Male,139-20-0155,B,Mandalay,Member,Electronic accessories,40.3,10,20.15
+Male,558-80-4082,C,Naypyitaw,Normal,Electronic accessories,27.85,7,9.7475
+Male,585-03-5943,B,Mandalay,Normal,Health and beauty,18.11,10,9.055
+Male,727-75-6477,C,Naypyitaw,Normal,Electronic accessories,28.84,4,5.768
+Male,744-02-5987,A,Yangon,Member,Home and lifestyle,78.38,6,23.514
+Male,307-83-9164,A,Yangon,Member,Home and lifestyle,60.01,4,12.002
+Male,446-47-6729,C,Naypyitaw,Normal,Fashion accessories,99.82,2,9.982
+Male,573-10-3877,B,Mandalay,Member,Health and beauty,39.01,1,1.9505
+Male,735-06-4124,C,Naypyitaw,Normal,Food and beverages,48.61,1,2.4305
+Male,411-77-0180,A,Yangon,Member,Electronic accessories,72.2,7,25.27
+Male,532-59-7201,B,Mandalay,Member,Sports and travel,79.93,6,23.979
+Male,181-94-6432,C,Naypyitaw,Member,Fashion accessories,69.33,2,6.933
+Male,174-36-3675,C,Naypyitaw,Member,Food and beverages,99.37,2,9.937
+Male,603-07-0961,C,Naypyitaw,Member,Electronic accessories,74.79,5,186.975
+Male,787-15-1757,C,Naypyitaw,Member,Health and beauty,44.07,4,8.814
+Male,372-94-8041,A,Yangon,Normal,Health and beauty,15.26,6,4.578
+Male,746-54-5508,A,Yangon,Normal,Home and lifestyle,21.52,6,6.456
+Male,276-54-0879,B,Mandalay,Normal,Sports and travel,97.74,4,19.548
+Male,815-11-1168,A,Yangon,Member,Food and beverages,99.78,5,24.945
+Male,719-76-3868,C,Naypyitaw,Member,Food and beverages,94.26,4,18.852
+Male,730-61-8757,B,Mandalay,Member,Health and beauty,51.13,4,10.226
+Male,340-66-0321,A,Yangon,Member,Electronic accessories,36.36,4,7.272
+Male,868-81-1752,B,Mandalay,Normal,Home and lifestyle,22.02,9,9.909
+Male,634-97-8956,A,Yangon,Normal,Food and beverages,32.9,3,4.935
+Male,566-71-1091,A,Yangon,Normal,Fashion accessories,77.02,5,19.255
+Male,442-48-3607,A,Yangon,Member,Food and beverages,23.48,2,2.348
+Male,835-16-0096,C,Naypyitaw,Member,Sports and travel,14.7,5,3.675
+Male,898-04-2717,A,Yangon,Normal,Fashion accessories,76.4,9,34.38
+Male,378-07-7001,B,Mandalay,Member,Electronic accessories,48.09,3,7.2135
+Male,150-89-8043,A,Yangon,Normal,Sports and travel,44.65,3,6.6975
+Male,441-94-7118,A,Yangon,Member,Electronic accessories,71.95,1,3.5975
+Male,531-80-1784,A,Yangon,Normal,Electronic accessories,26.02,7,9.107
+Male,834-61-8124,A,Yangon,Normal,Electronic accessories,51.69,7,180.915
+Male,565-67-6697,B,Mandalay,Member,Home and lifestyle,27,9,12.15
+Male,453-63-6187,B,Mandalay,Normal,Electronic accessories,27.5,3,4.125
+Male,578-80-7669,B,Mandalay,Normal,Sports and travel,74.97,1,3.7485
+Male,612-36-5536,A,Yangon,Member,Food and beverages,80.96,8,32.384
+Male,471-41-2823,C,Naypyitaw,Normal,Food and beverages,99.79,2,9.979
+Male,462-67-9126,A,Yangon,Normal,Home and lifestyle,73.22,6,21.966
+Male,468-88-0009,A,Yangon,Member,Home and lifestyle,65.94,4,13.188
+Male,254-31-0042,A,Yangon,Member,Electronic accessories,21.5,9,9.675
+Male,382-25-8917,C,Naypyitaw,Normal,Fashion accessories,42.08,6,12.624
+Male,743-88-1662,C,Naypyitaw,Normal,Sports and travel,95.49,7,334.215
+Male,595-86-2894,C,Naypyitaw,Member,Fashion accessories,96.98,4,19.396
+Male,289-15-7034,A,Yangon,Member,Sports and travel,82.33,4,16.466
+Male,525-88-7307,B,Mandalay,Member,Sports and travel,75.82,1,3.791
+Male,689-16-9784,C,Naypyitaw,Normal,Food and beverages,46.77,6,14.031
+Male,596-42-3999,B,Mandalay,Normal,Food and beverages,18.22,7,6.377
+Male,563-36-9814,A,Yangon,Member,Electronic accessories,76.82,1,3.841
+Male,760-54-1821,B,Mandalay,Normal,Home and lifestyle,13.59,9,6.1155
+Male,346-12-3257,B,Mandalay,Member,Electronic accessories,19.24,9,8.658
+Male,651-61-0874,C,Naypyitaw,Normal,Home and lifestyle,46.22,4,9.244
+Male,236-86-3015,C,Naypyitaw,Member,Home and lifestyle,13.98,1,699
+Male,882-40-4577,A,Yangon,Member,Sports and travel,67.26,4,13.452
+Male,732-67-5346,A,Yangon,Normal,Food and beverages,13.79,5,3.4475
+Male,569-71-4390,B,Mandalay,Normal,Sports and travel,21.87,2,2.187
+Male,132-23-6451,A,Yangon,Member,Health and beauty,20.97,5,5.2425
+Male,696-90-2548,A,Yangon,Normal,Sports and travel,25.84,3,3.876
+Male,472-15-9636,A,Yangon,Normal,Home and lifestyle,50.93,8,20.372
+Male,268-03-6164,B,Mandalay,Normal,Health and beauty,96.11,1,4.8055
+Male,301-81-8610,B,Mandalay,Member,Fashion accessories,25.42,8,10.168
+Male,489-64-4354,C,Naypyitaw,Normal,Fashion accessories,16.28,1,814
+Male,198-84-7132,B,Mandalay,Member,Fashion accessories,40.61,9,182.745
+Male,269-10-8440,A,Yangon,Member,Health and beauty,53.17,7,186.095
+Male,741-73-3559,B,Mandalay,Normal,Sports and travel,67.27,5,168.175
+Male,286-75-7818,B,Mandalay,Normal,Fashion accessories,69.08,2,6.908
+Male,574-57-9721,C,Naypyitaw,Normal,Food and beverages,43.27,2,4.327
+Male,616-87-0016,B,Mandalay,Normal,Fashion accessories,95.54,7,33.439
+Male,751-69-0068,C,Naypyitaw,Normal,Sports and travel,99.24,9,44.658
+Male,257-73-1380,C,Naypyitaw,Member,Sports and travel,82.93,4,16.586
+Male,345-08-4992,A,Yangon,Normal,Home and lifestyle,33.99,6,10.197
+Male,549-96-4200,C,Naypyitaw,Member,Food and beverages,17.04,4,3.408
+Male,450-28-2866,C,Naypyitaw,Member,Food and beverages,17.44,5,4.36
+Male,192-98-7397,C,Naypyitaw,Normal,Fashion accessories,12.78,1,639
+Male,235-46-8343,C,Naypyitaw,Member,Food and beverages,27.66,10,13.83
+Male,453-12-7053,C,Naypyitaw,Normal,Fashion accessories,45.74,3,6.861
+Male,744-09-5786,B,Mandalay,Normal,Electronic accessories,22.01,6,6.603
+Male,568-88-3448,A,Yangon,Normal,Health and beauty,25,1,1.25
+Male,187-83-5490,A,Yangon,Member,Electronic accessories,20.77,4,4.154
+Male,533-33-5337,B,Mandalay,Normal,Electronic accessories,79.39,10,39.695
+Male,729-46-7422,C,Naypyitaw,Normal,Food and beverages,35.89,1,1.7945
+Male,639-76-1242,C,Naypyitaw,Normal,Food and beverages,40.52,5,10.13
+Male,470-32-9057,A,Yangon,Member,Food and beverages,51.34,5,12.835
+Male,554-53-3790,B,Mandalay,Normal,Sports and travel,37.02,6,11.106
+Male,746-19-0921,C,Naypyitaw,Normal,Food and beverages,21.58,1,1.079
+Male,405-31-3305,A,Yangon,Member,Fashion accessories,43.13,10,21.565
+Male,731-59-7531,B,Mandalay,Member,Health and beauty,72.57,8,29.028
+Male,502-05-1910,A,Yangon,Normal,Health and beauty,65.18,3,9.777
+Male,598-47-9715,C,Naypyitaw,Normal,Electronic accessories,84.07,4,16.814
+Male,701-69-8742,B,Mandalay,Normal,Sports and travel,34.37,10,17.185
+Male,575-67-1508,A,Yangon,Normal,Electronic accessories,38.6,1,1.93
+Male,541-08-3113,C,Naypyitaw,Normal,Food and beverages,65.97,8,26.388
+Male,674-15-9296,A,Yangon,Normal,Sports and travel,37.14,5,9.285
+Male,305-18-3552,B,Mandalay,Member,Home and lifestyle,60.38,10,30.19
+Male,795-49-7276,A,Yangon,Normal,Fashion accessories,37.15,4,7.43
+Male,556-72-8512,C,Naypyitaw,Normal,Home and lifestyle,22.96,1,1.148
+Male,437-53-3084,B,Mandalay,Normal,Fashion accessories,99.89,2,9.989
+Male,632-32-4574,B,Mandalay,Normal,Sports and travel,75.92,8,30.368
+Male,277-63-2961,B,Mandalay,Member,Sports and travel,73.97,1,3.6985
+Male,620-02-2046,C,Naypyitaw,Normal,Home and lifestyle,69.4,2,6.94
+Male,511-54-3087,B,Mandalay,Normal,Sports and travel,88.45,1,4.4225
+Male,726-29-6793,A,Yangon,Member,Electronic accessories,24.18,8,9.672
+Male,291-21-5991,B,Mandalay,Member,Health and beauty,61.29,5,153.225
+Male,189-52-0236,A,Yangon,Normal,Electronic accessories,99.55,7,348.425
+Male,503-07-0930,C,Naypyitaw,Member,Sports and travel,58.39,7,204.365
+Male,425-85-2085,B,Mandalay,Member,Health and beauty,54.86,5,13.715
+Male,521-18-7827,C,Naypyitaw,Member,Home and lifestyle,39.39,5,9.8475
+Male,220-28-1851,A,Yangon,Normal,Home and lifestyle,34.73,2,3.473
+Male,600-38-9738,C,Naypyitaw,Member,Sports and travel,71.92,5,17.98
+Male,133-14-7229,C,Naypyitaw,Normal,Health and beauty,62.87,2,6.287
+Male,534-01-4457,A,Yangon,Normal,Food and beverages,81.71,6,24.513
+Male,286-62-6248,B,Mandalay,Normal,Fashion accessories,39.21,4,7.842
+Male,339-38-9982,B,Mandalay,Member,Fashion accessories,59.86,2,5.986
+Male,827-77-7633,A,Yangon,Normal,Sports and travel,98.09,9,441.405
+Male,287-83-1405,A,Yangon,Normal,Health and beauty,25.43,6,7.629
+Male,435-13-4908,A,Yangon,Member,Fashion accessories,86.68,8,34.672
+Male,857-67-9057,B,Mandalay,Normal,Electronic accessories,22.95,10,11.475
+Male,583-41-4548,C,Naypyitaw,Normal,Home and lifestyle,16.67,7,5.8345
+Male,643-38-7867,A,Yangon,Normal,Home and lifestyle,97.94,1,4.897
+Male,460-35-4390,A,Yangon,Normal,Home and lifestyle,30.68,3,4.602
+Male,343-87-0864,C,Naypyitaw,Member,Health and beauty,75.88,1,3.794
+Male,243-47-2663,C,Naypyitaw,Member,Electronic accessories,18.77,6,5.631
+Male,701-23-5550,B,Mandalay,Member,Home and lifestyle,38.81,4,7.762
+Male,541-48-8554,A,Yangon,Normal,Sports and travel,60.95,9,274.275
+Male,747-58-7183,B,Mandalay,Normal,Fashion accessories,57.27,3,8.5905
+Male,399-69-4630,C,Naypyitaw,Normal,Electronic accessories,22.21,6,6.663
+Male,134-75-2619,A,Yangon,Member,Electronic accessories,19.32,7,6.762
+Male,356-44-8813,B,Mandalay,Normal,Home and lifestyle,37.48,3,5.622
+Male,712-39-0363,A,Yangon,Member,Food and beverages,41.66,6,12.498
+Male,174-75-0888,B,Mandalay,Normal,Electronic accessories,21.58,9,9.711
+Male,866-99-7614,C,Naypyitaw,Normal,Food and beverages,89.2,10,44.6
+Male,760-90-2357,A,Yangon,Member,Electronic accessories,74.51,6,22.353
+Male,514-37-2845,B,Mandalay,Normal,Fashion accessories,99.25,2,9.925
+Male,343-61-3544,B,Mandalay,Member,Sports and travel,26.67,10,13.335
+Male,239-48-4278,A,Yangon,Member,Food and beverages,10.13,7,3.5455
+Male,355-34-6244,B,Mandalay,Normal,Food and beverages,72.39,2,7.239
+Male,550-84-8664,A,Yangon,Normal,Sports and travel,85.91,5,214.775
+Male,339-96-8318,B,Mandalay,Member,Fashion accessories,81.31,7,284.585
+Male,458-61-0011,B,Mandalay,Normal,Food and beverages,60.3,4,12.06
+Male,592-34-6155,C,Naypyitaw,Normal,Food and beverages,31.77,4,6.354
+Male,207-73-1363,B,Mandalay,Normal,Health and beauty,69.51,2,6.951
+Male,390-31-6381,C,Naypyitaw,Normal,Food and beverages,27.22,3,4.083
+Male,375-72-3056,B,Mandalay,Normal,Sports and travel,63.06,3,9.459
+Male,127-47-6963,A,Yangon,Normal,Health and beauty,51.71,4,10.342
+Male,379-17-6588,C,Naypyitaw,Normal,Fashion accessories,59.61,10,29.805
+Male,227-50-3718,A,Yangon,Normal,Health and beauty,14.62,5,3.655
+Male,302-15-2162,C,Naypyitaw,Member,Health and beauty,46.53,6,13.959
+Male,585-11-6748,B,Mandalay,Member,Sports and travel,96.8,3,14.52
+Male,470-31-3286,B,Mandalay,Normal,Health and beauty,14.82,3,2.223
+Male,152-68-2907,A,Yangon,Normal,Food and beverages,52.2,3,7.83
+Male,219-61-4139,C,Naypyitaw,Normal,Electronic accessories,83.08,1,4.154
+Male,373-09-4567,C,Naypyitaw,Normal,Food and beverages,77.56,10,38.78
+Male,830-58-2383,B,Mandalay,Normal,Home and lifestyle,31.75,4,6.35
+Male,318-12-0304,A,Yangon,Normal,Fashion accessories,30.61,1,1.5305
+Male,349-97-8902,B,Mandalay,Member,Food and beverages,57.89,2,5.789
+Male,789-23-8625,B,Mandalay,Member,Fashion accessories,93.22,3,13.983
+Male,284-54-4231,C,Naypyitaw,Member,Sports and travel,80.93,1,4.0465
+Male,443-59-0061,A,Yangon,Member,Food and beverages,67.45,10,33.725
+Male,327-40-9673,B,Mandalay,Member,Sports and travel,72.6,6,21.78
+Male,840-19-2096,C,Naypyitaw,Member,Electronic accessories,87.91,5,219.775
+Male,828-46-6863,A,Yangon,Member,Food and beverages,98.53,6,29.559
+Male,598-06-7312,B,Mandalay,Member,Fashion accessories,91.35,1,4.5675
+Male,816-57-2053,A,Yangon,Normal,Sports and travel,60.87,2,6.087
+Male,628-90-8624,B,Mandalay,Member,Health and beauty,82.58,10,41.29
+Male,856-66-2701,A,Yangon,Member,Home and lifestyle,53.3,3,7.995
+Male,149-61-1929,A,Yangon,Normal,Sports and travel,64.19,10,32.095
+Male,655-07-2265,A,Yangon,Normal,Electronic accessories,78.31,3,11.7465
+Male,589-02-8023,A,Yangon,Member,Food and beverages,83.77,2,8.377
+Male,420-04-7590,B,Mandalay,Normal,Home and lifestyle,99.7,3,14.955
+Male,182-88-2763,B,Mandalay,Member,Food and beverages,79.91,3,11.9865
+Male,188-55-0967,B,Mandalay,Member,Health and beauty,66.47,10,33.235
+Male,610-46-4100,A,Yangon,Normal,Health and beauty,28.95,7,10.1325
+Male,665-63-9737,B,Mandalay,Normal,Fashion accessories,52.42,3,7.863
+Male,794-32-2436,B,Mandalay,Member,Electronic accessories,55.67,2,5.567
+Male,273-84-2164,C,Naypyitaw,Member,Electronic accessories,12.05,5,3.0125
+Male,706-36-6154,A,Yangon,Member,Home and lifestyle,19.36,9,8.712
+Male,778-89-7974,C,Naypyitaw,Normal,Health and beauty,70.21,6,21.063
+Male,574-31-8277,B,Mandalay,Member,Fashion accessories,33.63,1,1.6815
+Male,740-11-5257,C,Naypyitaw,Normal,Electronic accessories,24.74,10,12.37
+Male,369-82-2676,B,Mandalay,Normal,Electronic accessories,75.66,5,18.915
+Male,742-04-5161,A,Yangon,Member,Home and lifestyle,72.78,10,36.39
+Male,149-15-7606,B,Mandalay,Member,Sports and travel,37.32,9,16.794
+Male,133-77-3154,B,Mandalay,Member,Fashion accessories,60.18,4,12.036
+Male,491-38-3499,A,Yangon,Member,Fashion accessories,55.45,1,2.7725
+Male,842-29-4695,C,Naypyitaw,Member,Sports and travel,17.14,7,5.999
+Male,779-42-2410,B,Mandalay,Member,Food and beverages,57.74,3,8.661
+Male,588-47-8641,A,Yangon,Member,Fashion accessories,56.04,10,28.02
+Male,642-61-4706,B,Mandalay,Member,Food and beverages,93.4,2,9.34
+Male,556-41-6224,C,Naypyitaw,Normal,Health and beauty,33.64,8,13.456
+Male,242-11-3142,B,Mandalay,Member,Fashion accessories,83.77,2,8.377
+Male,648-94-3045,C,Naypyitaw,Normal,Health and beauty,58.95,10,29.475
+Male,130-67-4723,A,Yangon,Member,Food and beverages,48.5,6,14.55
+Male,105-10-6182,A,Yangon,Member,Fashion accessories,21.48,2,2.148
+Male,648-83-1321,A,Yangon,Member,Home and lifestyle,63.56,10,31.78
+Male,173-57-2300,C,Naypyitaw,Member,Sports and travel,72.88,2,7.288
+Male,266-20-6657,C,Naypyitaw,Member,Food and beverages,55.04,7,19.264
+Male,689-05-1884,A,Yangon,Member,Health and beauty,48.63,10,24.315
+Male,826-58-8051,B,Mandalay,Normal,Home and lifestyle,62.19,4,12.438
+Male,868-06-0466,A,Yangon,Member,Electronic accessories,69.58,9,31.311
+Male,751-41-9720,C,Naypyitaw,Normal,Home and lifestyle,97.5,10,48.75
+Male,176-64-7711,B,Mandalay,Normal,Food and beverages,32.32,3,4.848
+Male,729-06-2010,B,Mandalay,Member,Health and beauty,80.47,9,362.115
+Male,186-79-9562,B,Mandalay,Normal,Health and beauty,71.77,7,251.195
+Male,162-65-8559,C,Naypyitaw,Member,Food and beverages,68.98,1,3.449
+Male,760-27-5490,C,Naypyitaw,Normal,Fashion accessories,15.62,8,6.248
+Male,445-30-9252,A,Yangon,Normal,Sports and travel,25.7,3,3.855
+Male,786-94-2700,A,Yangon,Member,Food and beverages,80.62,6,24.186
+Male,735-32-9839,C,Naypyitaw,Member,Fashion accessories,98.7,8,39.48
+Male,482-17-1179,A,Yangon,Member,Electronic accessories,11.94,3,1.791
+Male,788-21-5741,A,Yangon,Normal,Fashion accessories,45.38,3,6.807
+Male,776-68-1096,B,Mandalay,Normal,Home and lifestyle,44.12,3,6.618
+Male,434-35-9162,B,Mandalay,Member,Food and beverages,23.34,4,4.668
+Male,442-44-6497,C,Naypyitaw,Member,Home and lifestyle,55.57,3,8.3355
+Male,174-64-0215,B,Mandalay,Normal,Sports and travel,69.74,10,34.87
+Male,210-74-9613,C,Naypyitaw,Normal,Fashion accessories,97.26,4,19.452
+Male,635-28-5728,A,Yangon,Normal,Health and beauty,56,3,8.4
+Male,756-49-0168,A,Yangon,Member,Fashion accessories,19.7,1,985
+Male,438-23-1242,B,Mandalay,Normal,Electronic accessories,75.88,7,26.558
+Male,238-45-6950,B,Mandalay,Member,Food and beverages,53.72,1,2.686
+Male,607-65-2441,C,Naypyitaw,Member,Health and beauty,81.95,10,40.975
+Male,137-63-5492,C,Naypyitaw,Normal,Electronic accessories,58.76,10,29.38
+Male,197-77-7132,B,Mandalay,Member,Electronic accessories,91.56,8,36.624
+Male,805-86-0265,A,Yangon,Normal,Home and lifestyle,93.96,9,42.282
+Male,733-29-1227,C,Naypyitaw,Normal,Home and lifestyle,55.61,7,194.635
+Male,451-73-2711,C,Naypyitaw,Normal,Food and beverages,84.83,1,4.2415
+Male,546-80-2899,A,Yangon,Member,Home and lifestyle,37.69,2,3.769
+Male,457-13-1708,B,Mandalay,Member,Fashion accessories,65.23,10,32.615
+Male,314-23-4520,C,Naypyitaw,Member,Health and beauty,81.23,7,284.305
+Male,775-72-1988,B,Mandalay,Normal,Home and lifestyle,73.28,5,18.32
+Male,250-17-5703,A,Yangon,Member,Food and beverages,18.85,10,9.425
+Male,525-09-8450,B,Mandalay,Normal,Electronic accessories,72.13,10,36.065
+Male,787-87-2010,A,Yangon,Member,Health and beauty,55.5,4,11.1
+Male,388-76-2555,B,Mandalay,Normal,Sports and travel,13.69,6,4.107
+Male,200-16-5952,C,Naypyitaw,Member,Food and beverages,65.65,2,6.565
+Male,102-77-2261,C,Naypyitaw,Member,Health and beauty,65.31,7,228.585
+Male,875-31-8302,B,Mandalay,Normal,Sports and travel,93.38,1,4.669
+Male,102-06-2002,C,Naypyitaw,Member,Sports and travel,25.25,5,6.3125
+Male,457-94-0464,B,Mandalay,Member,Electronic accessories,87.87,9,395.415
+Male,629-42-4133,C,Naypyitaw,Normal,Health and beauty,21.8,8,8.72
+Male,404-91-5964,A,Yangon,Normal,Electronic accessories,74.58,7,26.103
+Male,886-77-9084,C,Naypyitaw,Normal,Electronic accessories,71.89,8,28.756
+Male,704-10-4056,C,Naypyitaw,Member,Health and beauty,60.47,3,9.0705
+Male,497-37-6538,A,Yangon,Normal,Sports and travel,58.91,7,206.185
+Male,651-96-5970,A,Yangon,Normal,Fashion accessories,46.41,1,2.3205
+Male,400-80-4065,C,Naypyitaw,Member,Health and beauty,68.55,4,13.71
+Male,263-12-5321,A,Yangon,Member,Electronic accessories,92.6,7,32.41
+Male,605-83-1050,B,Mandalay,Normal,Fashion accessories,27.18,2,2.718
+Male,359-94-5395,B,Mandalay,Normal,Health and beauty,92.78,1,4.639
+Male,401-09-4232,C,Naypyitaw,Member,Home and lifestyle,86.69,5,216.725
+Male,751-15-6198,B,Mandalay,Normal,Sports and travel,23.01,6,6.903
+Male,474-33-8305,C,Naypyitaw,Member,Fashion accessories,67.39,7,235.865
+Male,565-91-4567,B,Mandalay,Normal,Health and beauty,10.75,8,4.3
+Male,674-56-6360,A,Yangon,Normal,Electronic accessories,95.15,1,4.7575
+Male,832-51-6761,A,Yangon,Normal,Food and beverages,33.88,8,13.552
+Male,869-11-3082,B,Mandalay,Member,Health and beauty,96.16,4,19.232
+Male,190-59-3964,B,Mandalay,Member,Food and beverages,47.16,5,11.79
+Male,366-43-6862,B,Mandalay,Normal,Electronic accessories,52.89,4,10.578
+Male,784-21-9238,C,Naypyitaw,Member,Sports and travel,10.17,1,5.085
+Male,760-53-9233,A,Yangon,Member,Fashion accessories,41.28,3,6.192
+Male,538-22-0304,C,Naypyitaw,Normal,Electronic accessories,64.95,10,32.475
+Male,237-44-6163,A,Yangon,Normal,Electronic accessories,10.56,8,4.224
+Male,636-17-0325,B,Mandalay,Normal,Health and beauty,62.57,4,12.514
+Male,528-14-9470,A,Yangon,Member,Health and beauty,91.3,1,4.565
+Male,807-34-3742,A,Yangon,Normal,Fashion accessories,52.38,1,2.619
+Male,288-62-1085,A,Yangon,Member,Fashion accessories,38.54,5,9.635
+Male,670-71-7306,B,Mandalay,Normal,Sports and travel,44.63,6,13.389
+Male,660-29-7083,C,Naypyitaw,Normal,Electronic accessories,55.87,10,27.935
+Male,497-36-0989,A,Yangon,Normal,Fashion accessories,51.94,3,7.791
+Male,291-59-1384,B,Mandalay,Normal,Electronic accessories,60.3,1,3.015
+Male,896-34-0956,A,Yangon,Normal,Fashion accessories,21.32,1,1.066
+Male,804-38-3935,A,Yangon,Member,Electronic accessories,93.78,3,14.067
+Male,585-90-0249,A,Yangon,Member,Electronic accessories,73.26,1,3.663
+Male,843-73-4724,A,Yangon,Normal,Fashion accessories,74.1,1,3.705
+Male,658-66-3967,C,Naypyitaw,Normal,Health and beauty,53.19,7,186.165
+Male,770-42-8960,B,Mandalay,Normal,Food and beverages,21.12,8,8.448
+Male,234-36-2483,B,Mandalay,Normal,Health and beauty,57.59,6,17.277
+Male,840-76-5966,A,Yangon,Member,Sports and travel,12.76,2,1.276
+Male,176-78-1170,C,Naypyitaw,Member,Health and beauty,33.81,3,5.0715
+Male,361-59-0574,B,Mandalay,Member,Sports and travel,90.53,8,36.212
+Male,631-34-1880,C,Naypyitaw,Member,Food and beverages,24.31,3,3.6465
+Male,852-82-2749,A,Yangon,Normal,Sports and travel,64.59,4,12.918
+Male,873-14-6353,A,Yangon,Member,Food and beverages,24.82,7,8.687
+Male,584-66-4073,C,Naypyitaw,Normal,Fashion accessories,56.5,1,2.825
+Male,166-19-2553,A,Yangon,Member,Sports and travel,89.06,6,26.718
+Male,737-88-5876,A,Yangon,Member,Home and lifestyle,23.29,4,4.658
+Male,154-87-7367,C,Naypyitaw,Normal,Home and lifestyle,65.26,8,26.104
+Male,885-56-0389,C,Naypyitaw,Member,Fashion accessories,52.35,1,2.6175
+Male,608-05-3804,B,Mandalay,Member,Electronic accessories,39.75,1,1.9875
+Male,311-13-6971,B,Mandalay,Member,Sports and travel,31.99,10,15.995
+Male,460-93-5834,A,Yangon,Normal,Sports and travel,45.58,7,15.953
+Male,325-89-4209,A,Yangon,Member,Food and beverages,87.9,1,4.395
+Male,880-46-5796,A,Yangon,Member,Sports and travel,76.92,10,38.46
+Male,715-20-1673,B,Mandalay,Normal,Electronic accessories,28.38,5,7.095
+Male,811-35-1094,B,Mandalay,Member,Electronic accessories,50.45,6,15.135
+Male,699-88-1972,B,Mandalay,Normal,Health and beauty,99.16,8,39.664
+Male,781-84-8059,C,Naypyitaw,Normal,Fashion accessories,60.74,7,21.259
+Male,725-54-0677,C,Naypyitaw,Member,Health and beauty,85.6,7,29.96
+Male,146-09-5432,A,Yangon,Member,Food and beverages,35.04,9,15.768
+Male,509-10-0516,B,Mandalay,Normal,Home and lifestyle,45.97,4,9.194
+Male,865-41-9075,A,Yangon,Normal,Food and beverages,11.53,7,4.0355
+Male,450-42-3339,C,Naypyitaw,Normal,Health and beauty,84.61,10,42.305
+Male,522-57-8364,A,Yangon,Member,Fashion accessories,51.34,8,20.536
+Male,722-13-2115,C,Naypyitaw,Member,Sports and travel,42.85,1,2.1425
+Male,777-67-2495,B,Mandalay,Normal,Home and lifestyle,68.97,3,10.3455
+Male,321-49-7382,B,Mandalay,Member,Sports and travel,88.31,1,4.4155
+Male,825-94-5922,B,Mandalay,Normal,Sports and travel,25.31,2,2.531
+Male,641-62-7288,B,Mandalay,Normal,Home and lifestyle,99.92,6,29.976
+Male,458-10-8612,C,Naypyitaw,Normal,Health and beauty,64.08,7,22.428
+Male,235-06-8510,C,Naypyitaw,Member,Home and lifestyle,85.72,3,12.858
+Male,720-72-2436,A,Yangon,Normal,Food and beverages,66.52,4,13.304
+Male,702-83-5291,C,Naypyitaw,Member,Fashion accessories,99.82,9,44.919
+Male,449-16-6770,A,Yangon,Normal,Health and beauty,50.79,5,12.6975
+Male,333-23-2632,A,Yangon,Member,Health and beauty,10.08,7,3.528
+Male,859-97-6048,C,Naypyitaw,Member,Electronic accessories,84.25,2,8.425
+Male,676-10-2200,B,Mandalay,Member,Fashion accessories,53.78,1,2.689
+Male,373-88-1424,C,Naypyitaw,Member,Home and lifestyle,35.81,5,8.9525
+Male,503-21-4385,B,Mandalay,Member,Health and beauty,39.91,3,5.9865
+Male,200-40-6154,B,Mandalay,Member,Home and lifestyle,65.91,6,19.773
+Male,577-34-7579,C,Naypyitaw,Member,Food and beverages,50.49,9,227.205
+Male,430-02-3888,B,Mandalay,Normal,Electronic accessories,46.02,6,13.806
+Male,256-58-3609,C,Naypyitaw,Member,Fashion accessories,91.98,1,4.599
+Male,324-92-3863,A,Yangon,Member,Electronic accessories,20.89,2,2.089
+Male,364-34-2972,C,Naypyitaw,Member,Electronic accessories,96.82,3,14.523
+Male,794-42-3736,B,Mandalay,Normal,Food and beverages,33.33,2,3.333
+Male,195-06-0432,A,Yangon,Member,Home and lifestyle,81.01,3,12.1515
+Male,448-34-8700,B,Mandalay,Member,Home and lifestyle,36.91,7,12.9185
+Male,452-04-8808,B,Mandalay,Normal,Electronic accessories,87.08,7,30.478
+Male,531-56-4728,A,Yangon,Normal,Home and lifestyle,80.08,3,12.012
+Male,744-82-9138,C,Naypyitaw,Normal,Fashion accessories,86.13,2,8.613
+Male,883-69-1285,B,Mandalay,Member,Fashion accessories,49.92,2,4.992
+Male,518-71-6847,B,Mandalay,Member,Food and beverages,26.6,6,7.98
+Male,728-47-9078,C,Naypyitaw,Member,Food and beverages,59.59,4,11.918
+Male,809-46-1866,A,Yangon,Normal,Health and beauty,58.15,4,11.63
+Male,148-41-7930,C,Naypyitaw,Normal,Health and beauty,99.96,7,34.986
+Male,189-40-5216,C,Naypyitaw,Normal,Electronic accessories,96.37,7,337.295
+Male,552-44-5977,B,Mandalay,Member,Health and beauty,62,8,24.8
+Male,267-62-7380,C,Naypyitaw,Member,Electronic accessories,82.34,10,41.17
+Male,430-53-4718,B,Mandalay,Member,Health and beauty,75.37,8,30.148
+Male,745-74-0715,A,Yangon,Normal,Electronic accessories,58.03,2,5.803
+Male,690-01-6631,B,Mandalay,Normal,Fashion accessories,17.49,10,8.745
+Male,233-67-5758,C,Naypyitaw,Normal,Health and beauty,40.35,1,2.0175
+Male,727-02-1313,A,Yangon,Member,Food and beverages,31.84,1,1.592
+Male,347-56-2442,A,Yangon,Normal,Home and lifestyle,65.82,1,3.291
